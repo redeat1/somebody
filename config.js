@@ -11,12 +11,12 @@ var config = {
     chapters: [
         {
             id: 'phl',
-            title: 'Philadelphia Bicycle Infrastructure',
+            title: '双核阶段（1979－1997）：',
             image: '',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheap. As a typical East Coast large city, the urban core is dense, so there is a lot within reach of a 15 minute ride... even mountain bike trails. Paired with the public transit infrastructure, cycling can be more efficient and much less expensive than driving (and parking) a car.',
+            description: '广州和香港作为2大区域核心，促进邻近城市如深圳和东莞发展。',
             location: {
-                center: [-75.13080, 39.97790],
-                zoom: 9.83,
+                center: [113.65699, 22.63995],
+                zoom: 7.89,
                 pitch: 0.00,
                 bearing: 0.00
             },

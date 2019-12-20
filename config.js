@@ -1,8 +1,8 @@
 var config = {
-    style: 'mapbox://styles/redeat/ck4c4hjnd28lt1cpj0y2fvnrd',
+    style: 'mapbox://styles/redeat/ck4ci7atj32xj1co46e90pzno',
     accessToken: 'pk.eyJ1IjoicmVkZWF0IiwiYSI6ImNrNGM0Y3dlaTA3d2Uzbm0wdnR5dW1uaDIifQ.5A8nVnhRnY4ykzOOLNQPzw',
     showMarkers: false,
-    theme: 'light',
+    theme: 'dark',
     alignment: 'right',
     title: '',
     subtitle: '',
@@ -13,7 +13,7 @@ var config = {
             id: 'phl',
             title: '双核阶段（1979－1997）：',
             image: '',
-            description: '广州和香港作为2大区域核心，促进邻近城市如深圳和东莞发展。',
+            description: '双核阶段（1979－ 1997）：广州和香港作为2大区域核心，促进邻近城市如深圳和东莞发展。深圳核心区的形成（1998-2008）：中国加入WTO。加上其他政策如土地政策改革、房屋政策改革、使香港经济对深圳的影响有所减弱珠三角（2008-2018）：传统的代工模式出现发展瓶颈，依靠地域在三大都市区（广佛肇、深莞惠、珠中江）启动城市一“大湾区”（2018年至今）：随 体化进程着《粤港澳大湾区发展规划纲要》的发布，大湾区是结合3个大都市区+2个特别行政区，旨在融合不同的政治、经济制度形成一个大型的都市圈',
             location: {
                 center: [113.65699, 22.63995],
                 zoom: 7.89,
@@ -37,12 +37,12 @@ var config = {
             id: 'bike-lanes',
             title: 'Bike Lanes',
             image: '',
-            description: 'Philadelphia has XX miles of bike lanes, XX miles of which are protected. Drivers are getting more used to sharing the road, but ride defensively.',
+            description: '大湾区人口仅占全国的5%却创造了超过12%的GDP。随着未来人口、经济、产业进一步在大湾区聚集、优势将更加明显。同时大湾区存在两种制度，三种货币的特殊环境，大湾区发展面临着机遇、更面临着挑战',
             location: {
-                center: [-75.13901, 39.97085],
-                zoom: 11.62,
-                pitch: 55.50,
-                bearing: -7.20
+                center: [113.65699, 22.63995],
+                zoom: 7.89,
+                pitch: 0.00,
+                bearing: 0.00
             },
             onChapterEnter: [
                 {
@@ -56,12 +56,12 @@ var config = {
             id: 'indego',
             title: 'Indego Bike Share',
             image: '',
-            description: 'Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents.',
+            description: '',
             location: {
-                center: [-75.16468, 39.94503],
-                zoom: 13.15,
-                pitch: 60.00,
-                bearing: -16.80
+                center: [113.65699, 22.63995],
+                zoom: 7.89,
+                pitch: 0.00,
+                bearing: 0.00
             },
             onChapterEnter: [
                 {
@@ -80,12 +80,12 @@ var config = {
             id: 'belmont',
             title: 'Belmont Plateau Trails',
             image: '',
-            description: 'A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun',
+            description: '大湾区经济发展现状良好，消费升级趋势显现，广州、深圳、香港经济条件优良作为区域中心带动周边城市发展',
             location: {
-                center: [-75.20325, 39.99574],
-                zoom: 14.99,
-                pitch: 44.00,
-                bearing: -40.00
+                center: [113.65699, 22.63995],
+                zoom: 7.89,
+                pitch: 0.00,
+                bearing: 0.00
             },
             onChapterEnter: [
                 {
@@ -104,12 +104,12 @@ var config = {
             id: 'wiss',
             title: 'Wissahickon Park Trails',
             image: '',
-            description: 'This steep, rocky gorge can be surprisingly technical. Follow the orange and yellow trails to repeatedly climb and descend through the schist hillsides (careful of the cliffs), or stick to the gravel Forbidden Drive for a relaxing ride along the creek. You\'ll forget you\'re in a city.',
+            description: '大湾区重点交通工程重点为加强珠江东西岸的联系，跨江（海）工程占比超过70%，项目地位于珠江出海口，区位条件优良',
             location: {
-                center: [-75.21223, 40.05028],
-                zoom: 13.08,
-                pitch: 47.50,
-                bearing: 32.80
+                center: [113.65699, 22.63995],
+                zoom: 7.89,
+                pitch: 0.00,
+                bearing: 0.00
             },
             onChapterEnter: [
                 {
@@ -128,12 +128,12 @@ var config = {
             id: 'pennypack',
             title: 'Pennypack Park Trails',
             image: '',
-            description: 'Pennypack is a great introduction trail system. Not too steep and not too technical, the beautiful wooded park also provides a great escape from urban life. The south side trails are originally bridle trails, so be nice to equestrians and dismount when you approach them.',
+            description: '大湾区运输结构中，将加大铁路及水路转运份额，南沙港区可通过水运连接泛珠三角城市',
             location: {
-                center: [-75.05685, 40.06839],
-                zoom: 13.73,
-                pitch: 43.50,
-                bearing: 96.80
+                center: [113.65699, 22.63995],
+                zoom: 7.89,
+                pitch: 0.00,
+                bearing: 0.00
             },
             onChapterEnter: [
                 {
